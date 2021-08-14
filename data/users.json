@@ -1,0 +1,22 @@
+
+
+{
+  "1" : {
+    "name": "Nadja Demetriou",
+    "password": "blood",
+    "profession": "vampire",
+    "id" : 1
+  },
+  "2": {
+    "name": "Guillermo Guillen",
+    "password": "biteMe",
+    "profession": "familiar",
+    "id" : 2
+  },
+  "3" : {
+    "name": "Nandore the Relentless",
+    "password": "glitter",
+    "profession": "vampire",
+    "id" : 3
+  }
+}
